@@ -54,16 +54,16 @@ You can manage libraries through the library manager inside the arduino ide
   In this section will be discussing about wiring and connections to get all the different modules working and communicating one with each other.
 
   ## OP MODULE
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/op_module_wiring.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/op_wiring.png)
 
   ## AIR & TEMP MODULE
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/air_temperature_wiring.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/air_temp_wiring.png)
   ## MOISTURE MODULE
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/soil_wiring.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/soil_moisture_wiring.png)
   ## SOIL DISPLAY MODULE
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/air_temperature_wiring.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/soil_ph_display.png)
   ## BIODIVERSITY MODULE
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/air_temperature_wiring.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/getting_started/wiring/img/biodiversity_wiring.png)
 
 # CODING
 
